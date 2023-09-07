@@ -9,7 +9,7 @@ We consider a supply chain for a single perishable product, consisting of a set 
 2. Download the parameter files.
 3. Download the algorithm code and keep it in the same folder.
 4. State the number of scenarios in the algorithm code  __init__ function inside Relaxed_Master class.
-5. State the risk parameter setting $\lambda$ (and $\alpha if mean_CVaR) in the objective function inside Relaxed_Master class and also in the end while updating the bounds.
+5. State the risk parameter setting $\lambda$ (and $\alpha$ if mean_CVaR) in the objective function inside Relaxed_Master class and also in the end while updating the bounds.
 6. State the value of $\epsilon$.
 7. State the name of demand file inside the Relaxed_Master class.
 8. Run the code.
